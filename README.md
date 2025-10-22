@@ -12,6 +12,14 @@ A React + TypeScript + Tailwind CSS application to view and search the 50 most r
 - Pages: OverviewPage, SearchPage
 - Helpers: fetchApi, useDebounce
 
+# Getting started:
+1. Clone the repository:
+git clone https://github.com/emilija0414/security_advisories.git
+2. Enter repository:
+   cd security_advisories
+3. Install dependencies:
+npm install
+
 ## Available Scripts
 
 In the project directory, you can run:
