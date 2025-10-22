@@ -7,10 +7,10 @@ A React + TypeScript + Tailwind CSS application to view and search the 50 most r
 
 # Atomic Design structure used in the application:
 
-Atoms: Button, Dropdown, InputField, ListItem
-Organisms: Header
-Pages: OverviewPage, SearchPage
-Helpers: fetchApi, useDebounce
+- Atoms: Button, Dropdown, InputField, ListItem
+- Organisms: Header
+- Pages: OverviewPage, SearchPage
+- Helpers: fetchApi, useDebounce
 
 ## Available Scripts
 
